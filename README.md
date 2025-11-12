@@ -2,6 +2,8 @@
 
 Este repositório contém um conjunto de instruções Cypher para criar relacionamentos entre usuários, artistas e interesses em um grafo no **Neo4j**.
 
+![imagem](https://github.com/eumatoliveira/Criando-um-Algoritmo-de-Recomenda-o-de-M-sicas-Com-Base-Em-Grafos---NEO4J/blob/main/Criando%20um%20Algoritmo%20de%20Recomenda%C3%A7%C3%A3o%20de%20M%C3%BAsicas%20Com%20Base%20Em%20Grafos.png)
+
 ---
 
 ## Estrutura do Grafo
